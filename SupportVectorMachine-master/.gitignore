@@ -1,0 +1,14 @@
+# Python folders
+env/
+__pycache__/
+.idea/
+
+# Data folders
+data/
+images/
+
+
+# Mutable objects
+*.png
+*.pickle
+*.pyc
